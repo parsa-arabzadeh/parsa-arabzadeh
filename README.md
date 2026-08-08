@@ -9,12 +9,13 @@ MSc Physics graduate interested in theoretical and computational physics.
 - Many-body physics
 - Numerical simulation
 - Dense nuclear matter
-- Cosmology
+- Cosmology and dark matter
 
 ## Education
 
 **MSc Physics**  
 University of Tehran
+Thesis: The Presence of Pomerons for Nuclear Matter
 
 **BSc Petroleum Engineering**  
 Sharif University of Technology
@@ -24,6 +25,8 @@ Sharif University of Technology
 - Python
 - Fortran
 - MATLAB
+- Scientific Computing
+- Numerical Simulations
 
 ## Research Projects
 
