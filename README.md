@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Parsa Arabzadeh Asadi
 
-<!--
-**parsaarabzadehasadi/parsaarabzadehasadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Physics graduate interested in theoretical and computational physics.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Neutron stars and equation of state
+- Computational astrophysics
+- Many-body physics
+- Numerical simulation
+- Dense nuclear matter
+- Cosmology
+
+## Education
+
+**MSc Physics**  
+University of Tehran
+
+**BSc Petroleum Engineering**  
+Sharif University of Technology
+
+## Programming Skills
+
+- Python
+- Fortran
+- MATLAB
+
+## Research Projects
+
+- Nuclear matter equation of state calculations
+- Scientific computing
+- Computational physics simulations
