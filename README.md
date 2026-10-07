@@ -6,10 +6,11 @@ MSc Physics graduate interested in theoretical and computational physics.
 
 - Neutron stars and equation of state
 - Computational astrophysics
-- Many-body physics
+- Astroparticle physics
 - Numerical simulation
 - Dense nuclear matter
 - Cosmology and dark matter
+- Cosmic ray
 
 ## Education
 
